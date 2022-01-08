@@ -1,0 +1,22 @@
+p {
+    color: red;
+    width: 500px;
+    border: 1px solid black;
+}
+
+li, h1 {
+    color: rgb(47, 216, 47);
+}
+
+#for-li {
+    color: rgb(17, 195, 226);
+    border: 1px solid rgb(132, 31, 179);
+}
+
+.boy {
+    border: 2px solid brown;
+}
+
+a:hover {
+    color: rgb(251, 255, 5);
+}
