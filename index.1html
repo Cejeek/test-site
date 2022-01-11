@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="styles/style.css" type="text/css">
+        <title>Моя тестовая страница</title>
+        <link rel="icon" type="image/svg" sizes='18x18' href="images/flash_on_black_18dp.svg">
+        <link rel="icon" type="image/svg" sizes='24x24' href="images/flash_on_black_24dp.svg">
+        <link rel="icon" type="image/svg" sizes='36x36' href="images/flash_on_black_36dp.svg">
+        <link rel="icon" type="image/svg" sizes='48x48' href="images/flash_on_black_48dp.svg">
+    </head>
+    <body>
+        <h1>Мой не первый сайт на HTML</h1>
+        <img src="images/firefox-icon.svg" alt="Логотип Firefox: огненный Лис вокруг Земли">
+        <p class="editor-note">Моя кошка <strong>очень</strong> раздражена</p>
+        <!-- <h1>Мой главный заголовок</h1> -->
+        <h2>Заголовок верхнего уровня</h2>
+        <h3 class='renew'>Это заголовок изменнён!!!!!</h3>
+        <h4>Мой под-подзаголовок</h4>
+        <p>Первый абзац, одиночный</p>
+        <p>Этот сайт такой крутой и классный, что я добавил все виды заголовков, но даже может быть ещё и не все.</p>
+        <ul>
+            <li id="for-li">Первый элемент списка</li>
+            <li class="boy">Я знаю двесь языков программирвоания.</li>
+            <li>Что этоо?</li>
+        </ul>
+        <ol>
+            <li>Это нумерованный списко</li>
+            <li>А ты знал?</li>
+        </ol>
+        <p>Mozilla, мы являемся мировым сообществом технологов, мыслителей и строителей, работающих вместе ... </p>
+        <p>Mozilla, мы являемся мировым сообществом</p>
+        <ul>
+            <li>технологов</li>
+            <li>мыслителей</li>
+            <li>строителей</li>
+        </ul>
+        <a href="https://www.youtube.com" class="boy">Ссылка на Ютуб</a>
+        <p>href сначала может выглядеть довольно непонятым выбором для имени атрибута. Если у вас возникли проблемы с тем, чтобы запомнить его, можете запомнить, что атрибут href образуется как hypertext reference ("гипертекстовая ссылка").</p>
+        
+        <em>Это мой текст!</em>
+        
+        <h1>Привет бро, я - заголовок!</h1>
+        <p>Параграфф, <strong>пишу</strong>, что мне <a target="_blank" href="https://www.youtube.com" title="Ет Юутьюб!">кажется</a> интересным.</p>
+        <img src="images/flash_on_black_48dp.svg" alt="Привет брооооооооо!">
+        <p>Мы мнемоники: &lt; &gt; &QUOT;. А это наш отец амперсанд: &amp;.</p>
+
+
+
+
+
+
+    <!-- Убрал плохие слова и вставил этот комментарий! -->
+    <button>Изменить пользователя!</button>
+    <script src="scripts/main.js"></script>
+    </body>
+</html> 
